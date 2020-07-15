@@ -1,0 +1,1 @@
+This is an exercise in creating the google homepage. I will not create a functional search bar but should end with a site thats visually the same as the google home page.
